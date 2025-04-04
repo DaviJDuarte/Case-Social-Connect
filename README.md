@@ -14,6 +14,11 @@ Repositório criado para familiarização com os comandos do Git na disciplina d
 
 Este projeto foi desenvolvido para praticar e aprender os comandos básicos do Git.
 
+
+## Tecnologias Utilizadas
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ## Como Executar o Projeto
 
 1. Clone o repositório:
