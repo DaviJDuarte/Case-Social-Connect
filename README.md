@@ -25,5 +25,3 @@ Este projeto foi desenvolvido para praticar e aprender os comandos básicos do G
     cd Case-Social-Connect
     ```
 3. Abra o arquivo `index.html` no seu navegador.
-
-## Contato
